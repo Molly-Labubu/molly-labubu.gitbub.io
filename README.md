@@ -1,2 +1,2 @@
 # molly-labubu.gitbub.io
-Molly Labubu @ GitHub
+Molly Labubu @ github
